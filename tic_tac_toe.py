@@ -72,6 +72,7 @@ def player_choice(board):
      return int(position)
 
 def reply():
+     # This function Helps to replay the game
      reply=' '
      while not (reply=='Y' or reply=='N'):
           reply=input('Do you want to play again? Enter Y or N: ').upper()
