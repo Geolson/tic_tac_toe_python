@@ -1,4 +1,4 @@
-""""Coded myself"""
+"""Tik Tak Toe"""
 import random
 def display_board(board):
      # This function Display the box format for the game
