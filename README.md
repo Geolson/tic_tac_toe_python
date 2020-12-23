@@ -1,3 +1,5 @@
 # tic_tac_toe_python
 
-Easiest Python code for TIC TAC TOE game!
+Tic Tak Toe game in a simplest way using python
+
+No complex function used!
